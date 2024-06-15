@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on various project 
 - 📫 How to reach me is via email 
-- 😄 Pronouns:  He 
+- 😄 Pronouns:  He/Him 
 - ⚡ Fun fact: Physics is fun
 
 <!---
